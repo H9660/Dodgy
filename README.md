@@ -5,8 +5,6 @@ However if they happen to collide with red objects then they will loose the same
 
 The controls of the game can be found here: https://user-images.githubusercontent.com/73359258/147792070-1223c7dc-225d-4575-95b2-656b35b51f90.png
 
-NOTE: The timer functionality is under development and will be added soon.
-
 Happy Gaming!
 
 
