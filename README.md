@@ -6,6 +6,7 @@ However if they happen to collide with red objects then they will loose the same
 The controls of the game can be found here: https://user-images.githubusercontent.com/73359258/147792070-1223c7dc-225d-4575-95b2-656b35b51f90.png
 
 The installation is explained here: https://drive.google.com/file/d/1-B3bMvr-8mksYFIwwjWaqVr0-EYJU_JG/view?usp=sharing
+
 Happy Gaming!
 
 
